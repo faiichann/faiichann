@@ -39,7 +39,7 @@
 <a href="https://www.vonder.co.th"><img src="https://img.shields.io/badge/-Vonder-3423A6?style=flat&logo=vonder&logoColor=white"/></a>
 
 ## ⚙️  GitHub Analytics
-![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
+![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;
 [![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact&theme=radical)](https://github.com/faiichann/github-readme-stats)
 
 
