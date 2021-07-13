@@ -3,10 +3,10 @@
 
 ## 👨🏻‍💻  About Me
 
--❤️ &nbsp;I'm interesting about edtech!!!
+-❤️ &nbsp;I'm interesting about edtech!!! \
 -💡 &nbsp;I like to learn new technologies and develop software solutions.\
 -🎓 &nbsp;I'm currently studying Computer Science and Multimedia at the King Mongkut's University of Technology Thonburi.\
--✉️ &nbsp;You can shoot me an email at fainichkamon@gmail.com! I'll try to respond as soon as I can.\
+-✉️ &nbsp;You can shoot me an email at fainichkamon@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠  Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,6 +25,6 @@
 
 
 ## ⚙️  GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact&theme=onedark)](https://github.com/faiichann/github-readme-stats)
+![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
+[![Most use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact&theme=onedark)](https://github.com/faiichann/github-readme-stats)
 
