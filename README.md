@@ -1,0 +1,2 @@
+# faiichannn
+💡 My Github Profile 
