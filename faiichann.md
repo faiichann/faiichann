@@ -30,6 +30,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## 💼  Work Experience
+- ⭐️&nbsp; Software Developer at ETS
+<a href="http://www.ets.kmutt.ac.th"><img src="https://img.shields.io/badge/-ETS-KMUTT-3423A6?style=flat&logo=ets&logoColor=white"/></a>
+- ⭐️&nbsp; Intern Frontend Developer at Appman
+<a href="https://www.appman.co.th"><img src="https://img.shields.io/badge/-Appman-3423A6?style=flat&logo=appman&logoColor=white"/></a>
+- ⭐️&nbsp; Intern Frontend Game Developer at Vonder
+<a href="https://www.vonder.co.th"><img src="https://img.shields.io/badge/-Vonder-3423A6?style=flat&logo=vonder&logoColor=white"/></a>
 
 ## ⚙️  GitHub Analytics
 ![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
