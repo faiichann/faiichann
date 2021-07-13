@@ -32,7 +32,7 @@
 
 ## 💼  Work Experience
 - ⭐️&nbsp; Software Developer at ETS
-<a href="http://www.ets.kmutt.ac.th"><img src="https://img.shields.io/badge/-ETS-KMUTT-3423A6?style=flat&logo=ets&logoColor=white"/></a>
+<a href="http://www.ets.kmutt.ac.th"><img src="https://img.shields.io/badge/-ETSKMUTT-3423A6?style=flat&logo=ets&logoColor=white"/></a>
 - ⭐️&nbsp; Intern Frontend Developer at Appman
 <a href="https://www.appman.co.th"><img src="https://img.shields.io/badge/-Appman-3423A6?style=flat&logo=appman&logoColor=white"/></a>
 - ⭐️&nbsp; Intern Frontend Game Developer at Vonder
