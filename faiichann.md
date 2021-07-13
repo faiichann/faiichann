@@ -3,9 +3,9 @@
 
 ## 👨🏻‍💻  About Me
 
-- ❤️ &nbsp;I'm interesting about edtech!!! \
-- 💡 &nbsp;I like to learn new technologies and develop software solutions.\
-- 🎓 &nbsp;I'm currently studying Computer Science and Multimedia at the King Mongkut's University of Technology Thonburi.\
+- ❤️ &nbsp;I'm interesting about edtech!!! 
+- 💡 &nbsp;I like to learn new technologies and develop software solutions.
+- 🎓 &nbsp;I'm currently studying Computer Science and Multimedia at the King Mongkut's University of Technology Thonburi.
 - ✉️ &nbsp;You can shoot me an email at fainichkamon@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠  Tech Stack
