@@ -28,6 +28,6 @@
 ![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
 [![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact&theme=radical)](https://github.com/faiichann/github-readme-stats)
 
-- 🤔&nbsp; Wakatime stats
-[![Faiichann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faiichann&layout=compact&theme=radical)](https://github.com/faiichann/github-readme-stats)
+- 🤔&nbsp; Wakatime stats\
+[![Faiichann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faiichannn&layout=compact&theme=radical)](https://github.com/faiichann/github-readme-stats)
 
