@@ -21,9 +21,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 - 🔭🏻 &nbsp; Mobile |
-![Android Studio](https://img.shields.io/badge/-Android Studio-05122A?style=flat&logo=android)&nbsp;
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![React Native](https://img.shields.io/badge/-React Native-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 - ✍️ &nbsp; Methodlogy |
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
