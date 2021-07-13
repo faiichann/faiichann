@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm faiichannn
 💡 Welcome to My Github Profile 
 
-##👨🏻‍💻  About Me
+## 👨🏻‍💻  About Me
 
 -❤️ &nbsp;I'm interesting about edtech!!!
 -💡 &nbsp;I like to learn new technologies and develop software solutions.\
@@ -25,6 +25,6 @@
 
 
 ## ⚙️  GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact)](https://github.com/faiichann/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiichann&layout=compact&theme=onedark)](https://github.com/faiichann/github-readme-stats)
 
