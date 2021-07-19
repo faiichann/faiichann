@@ -26,7 +26,7 @@
 ![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 - :video_game: &nbsp; Game dev | 
 ![Utiny](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Pixi js](https://img.shields.io/badge/-Pixi-05122A?style=flat&logo=pixi)&nbsp;
+![Pixi js](https://img.shields.io/badge/-Pixi-05122A?style=flat&logo=pixijs)&nbsp;
 - ✍️ &nbsp; Methodlogy |
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
