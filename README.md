@@ -40,6 +40,8 @@
 <a href="https://www.appman.co.th"><img src="https://img.shields.io/badge/-Appman-3423A6?style=flat&logo=appman&logoColor=white"/></a>
 - ⭐️&nbsp; Intern Frontend Game Developer at Vonder
 <a href="https://www.vonder.co.th"><img src="https://img.shields.io/badge/-Vonder-3423A6?style=flat&logo=vonder&logoColor=white"/></a>
+- ⭐️&nbsp; Part Time Software Engineer at Robowealth
+<a href="https://www.robowealth.co.th/"><img src="https://img.shields.io/badge/-Robowealth-3423A6?style=flat&logo=Robowealth&logoColor=white"/></a>
 
 ## ⚙️  GitHub Analytics
 ![Faiichann's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiichann&count_private=true&show_icons=true&theme=onedark)&nbsp;
