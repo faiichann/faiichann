@@ -1,4 +1,7 @@
-# 👋 Hey there! I'm faiichannn
+
+ <img align="center" alt="cover" src="https://user-images.githubusercontent.com/44541411/159515241-41dc048d-90e9-4b19-bca8-bc769391eace.png" width="100%" height="320" />
+# 👋 Hey there! I'm faiichannn!
+
 💡 Welcome to My Github Profile 
 
 ## 👨🏻‍💻  About Me
